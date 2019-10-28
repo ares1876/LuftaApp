@@ -11,7 +11,7 @@ This Application does not require any specific installation. You just need to do
 # Running the Game
   1. After you have download the app, you open your CMD and go to the Downloads\Lufta Anijeve\out\production\Lufta Anijeve (in case you 
   save the application somewhere else rather than download folder, you just go in that directory).
-  2. You simple run the pre-complied class LuftaApp.class.  
+  2. You simple run the pre-complied class LuftaApp.class,  because there is where the MAIN function is.
     
     java LuftaApp
     
