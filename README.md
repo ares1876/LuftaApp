@@ -1,4 +1,4 @@
-# LuftaApp
+# Battleships
 A very simple version of the famous game BATTLESHIP built in JAVA and played in Console.
 
 # Game Rules
